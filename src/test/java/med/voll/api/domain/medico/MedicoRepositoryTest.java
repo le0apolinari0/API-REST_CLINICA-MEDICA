@@ -50,7 +50,7 @@ class MedicoRepositoryTest {
     }
 
     @Test
-    @DisplayName("Deveria devolver 1 medico disponivel na data selecionada!")
+    @DisplayName("Deveria devolver um medico disponivel na data selecionada!")
     void escolherMedicoAleatorioLivreNaDataCenario2() {
         //given ou arrange
         var proximaSegundaAs10 = LocalDate.now()
