@@ -1,0 +1,44 @@
+<html xmlns:oncanplaythrough="http://www.w3.org/1999/xhtml">
+	<head oncanplaythrough="" :replace="~{base :: head}"></head>
+	<body>
+		<div oncanplaythrough:replace="~{base :: logo}"></div>
+		
+		<div class="container">
+			<div oncanplaythrough:replace="~{base :: titulo('Novo consulta')}"></div>
+			<form oncanplaythrough:action="@{/....}" method="post" oncanplaythrough:object="${...}" class="card-body">
+				<input oncanplaythrough:field="*{id}" type="hidden">
+		
+				<div class="form-group">
+					<label for="button-submit">Nome do Paciente:</label>
+					<input oncanplaythrough:field="*{nome}" oncanplaythrough:errorclass="is-invalid" class="form-control" placeholder="Nome Completo">
+
+					<p class="alert alert-danger" oncanplaythrough:if="${#fields.hasErrors('nome')}" oncanplaythrough:errors="*{nome}">
+				</div>
+			
+				<div class="form-group">
+					<label for="button-submit">Nome do Medico:</label>
+					<input oncanplaythrough:field="*{valorInicial}" oncanplaythrough:errorclass="is-invalid" class="form-control" placeholder="Nome Completo">
+
+					<p class="alert alert-danger" oncanplaythrough:if="${#fields.hasErrors('valorInicial')}" oncanplaythrough:errors="*{valorInicial}">
+				</div>
+			
+				<div class="form-group">
+					<label for="dataAbertura">Agendar Consulta:</label>
+					<input id="dataAbertura" name="dataAbertura" oncanplaythrough:value="*{dataAbertura}"
+						   oncanplaythrough:errorclass="is-invalid" class="form-control" placeholder="Formato dd/MM/yyyy" type="text">
+
+					<p class="alert alert-danger" oncanplaythrough:if="${#fields.hasErrors('dataAbertura')}" oncanplaythrough:errors="*{dataAbertura}">
+				</div>
+			
+				<div class="form-group">
+					<label for="button-submit">Especialidade:</label>
+					<input oncanplaythrough:value="${...}" class="form-control" placeholder="Especialidade Medica" type="text" readonly>
+				</div>
+
+				<button class="btn btn-primary" id="button-submit" type="submit" role="button">Salvar</button>
+			</form>
+	
+			<button class="btn btn-primary mt-2" onclick="" :href="@{'/bearer-Leo'}" role="button">Voltar</button>
+		</div>
+	</body>
+</html>
