@@ -1,4 +1,4 @@
-<h1>ApiRest back-end  </h1>
+<h1>ApiRest | Back-End  </h1>
 
 <h2> Sobre</h2>
 <p>Projeto Desenvolvido utilizando Java e Spring Boot no curso Alura.</p>
