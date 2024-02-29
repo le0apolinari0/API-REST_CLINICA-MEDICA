@@ -1,10 +1,11 @@
-<h1>ApiRest back-end com a função de CRUD de Medicos e Usuarios   </h1>
+<h1>ApiRest back-end  </h1>
 
 <h2> Sobre</h2>
 <p>Projeto Desenvolvido utilizando Java e Spring Boot no curso Alura.</p>
 
 ## Conhecimentos posto em pratica.
 
+- Criando CRUD | Medicos | Pacientes | Consultas | tendo como referencia uma clinica medica 
 - Aprendendo isolar códigos de regras de negócio em uma aplicação
 - Implemente princípios em SOLID
 - Documentação de uma API seguindo o padrão OpenAPI
