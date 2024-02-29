@@ -11,6 +11,7 @@
 - Documentação de uma API seguindo o padrão OpenAPI
 - Escrevendo testes automatizados em uma aplicação com Spring Boot
 - Realizando o build de uma aplicação com Spring Boot
+- Usando Spring Security para criar um login/JSON Web Token (JWT)
 - Utilizando variáveis de ambiente e prepare a aplicação para o deploy
 
 
