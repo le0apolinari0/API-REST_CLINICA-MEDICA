@@ -17,11 +17,16 @@
 
 ##  Tecnologias
 <div>
+  <img src="https://img.shields.io/badge/intellij-4B0082?style=for-the-badge&logo=intellij-idea&logoColor=black">
   <img src="https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring Boot-239120?&style=for-the-badge&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=Git&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring Boot-239120?&style=for-the-badge&logo=Spring-Boot&logoColor=black">
+  <img src="https://img.shields.io/badge/postgres-00BFFF?style=for-the-badge&logo=Postgres&logoColor=black">
+  <img src="https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=mysql&logoColor=black">
+  <p><img src="https://img.shields.io/badge/Git-FF3300?style=for-the-badge&logo=Git&logoColor=black">
+  <img src="https://img.shields.io/badge/Github-808080?style=for-the-badge&logo=Github&logoColor=black">
   <img src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
+  </p>
   
   ## Fases da Api
 </div>
