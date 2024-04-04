@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Github-808080?style=for-the-badge&logo=Github&logoColor=black">
   <img src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
+      <img src="https://img.shields.io/badge/mockito-DCDCDC?style=for-the-badge&logo=mockito&logoColor=black">
   </p>
   
   ## Fases da Api
