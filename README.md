@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/Spring Boot-239120?&style=for-the-badge&logo=Spring-Boot&logoColor=black">
   <img src="https://img.shields.io/badge/postgres-00BFFF?style=for-the-badge&logo=Postgres&logoColor=black">
   <img src="https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=mysql&logoColor=black">
-  <p><img src="https://img.shields.io/badge/Git-FF3300?style=for-the-badge&logo=Git&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-FF3300?style=for-the-badge&logo=Git&logoColor=black">
   <img src="https://img.shields.io/badge/Github-808080?style=for-the-badge&logo=Github&logoColor=black">
   <img src="https://img.shields.io/badge/swagger-00FF00?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black">
-      <img src="https://img.shields.io/badge/mockito-DCDCDC?style=for-the-badge&logo=mockito&logoColor=black">
-  </p>
+  <img src="https://img.shields.io/badge/mockito-DCDCDC?style=for-the-badge&logo=mockito&logoColor=black">
+  
   
   ## Fases da Api
 </div>
